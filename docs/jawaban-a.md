@@ -1,2 +1,6 @@
-Tubagus A Fauzan M
-10323050
+1
+
+Cuma isi analkon, jadi sudah ini
+
+2
+
