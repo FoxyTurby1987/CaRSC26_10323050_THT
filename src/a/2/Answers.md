@@ -9,3 +9,7 @@ git add
 
 B: Set up Github dengan VSCode  
 <img width="387" height="1042" alt="Screenshot 2026-01-20 154604" src="https://github.com/user-attachments/assets/b110b197-ab2f-42ab-9d8b-4b12a712aab0" />
+
+C: Finish Git Branching (Main 4, Remote 6)  
+<img width="930" height="236" alt="Screenshot 2026-01-20 164858" src="https://github.com/user-attachments/assets/d8bb9861-af8f-43b3-ac19-fd9c1dc52674" />  
+<img width="1035" height="357" alt="Screenshot 2026-01-20 170705" src="https://github.com/user-attachments/assets/9825705a-3639-47eb-ba2e-2b5d9f0b70ee" />
