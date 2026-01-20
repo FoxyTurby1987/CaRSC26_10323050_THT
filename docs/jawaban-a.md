@@ -12,11 +12,15 @@
   Pretty good here, thank you kepada link tutorial yang dikasih.[Link Tutorial](https://code.visualstudio.com/docs/sourcecontrol/github) nya disini
   
   c. Do Git Branching  
-  Answers ada di lampiran
+  Answers ada di lampiran, lots of weird terms, harus membiasakan diri dengan latihan proyek
+
+  d. Learn SSH between Git and Github  
+  Quite difficult, but thankfully, i did it. Answers ada di lampiran
 * Pengenalan Ground Control Station
 * Development Environment
 * Dasar-Dasar UAV
 * Algoritma
+
 
 
 
