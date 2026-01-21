@@ -4,7 +4,7 @@
 * Source Control Management  
   a. Untuk bagian ini, memakai referensi [W3S](https://www.w3schools.com/git/git_staging_environment.asp?remote=github), terdapat 4 command di GIT yang akan dijelaskan, yakni:
     * git.init:  
-      >Di folder terpilih kamu, command ini menciptakan folder .git tersembunyi didalamnya, melacak sejarah codingan kita
+      >Menciptakan / memulai folder .git tersembunyi didalam folder code kita, melacak sejarah codingan kita
   
       Dalam contoh, kita menggunakan **mkdir project001** di git untuk menciptakan folder kita (cara mudahnya pakai tombol new folder aja), lalu di git, pakai **cd project001** untuk masuk kedalamnya, lalu kita bisa menggunakan **git.init** untuk menciptakan .git folder didalamnya
     * git.add:  
@@ -15,7 +15,10 @@
       >Mengecek apakah file dalam foldernya itu untracked atau tracked.
 
        Tracked & untracked analoginya disave atau tidak disave. Kalau untracked artinya versi sebelumnya dari code itu akan hilang ketika diubah, sementara tracked artinya versi sebelumnya akan dijaga. Dari contoh kita diatas, mengingat file Index.html kita sudah ditambah, maka ketika kita cek, akan terlacak sebagai tracked
-    * git
+    * git restore --staged file / git rm --cached file
+      >Untrack file yang sebelumnya ditrack pakai command git add
+
+      Bila dalam pengerjaan kita, kita masukkan kode salah kedalam .git folder kita, maka kita keluarkan dia dari .git folder menggunakan command ini
   
   b. Connect Git and VSCode to Github  
   Pretty good here, thank you kepada link tutorial yang dikasih.[Link Tutorial](https://code.visualstudio.com/docs/sourcecontrol/github) nya disini
@@ -60,6 +63,7 @@
   A & D star:
   A star 
   
+
 
 
 
