@@ -7,11 +7,14 @@
       >Di folder terpilih kamu, command ini menciptakan folder .git tersembunyi didalamnya, melacak sejarah codingan kita
   
       Dalam contoh, kita menggunakan **mkdir project001** di git untuk menciptakan folder kita (cara mudahnya pakai tombol new folder aja), lalu di git, pakai **cd project001** untuk masuk kedalamnya, lalu kita bisa menggunakan **git.init** untuk menciptakan .git folder didalamnya
-    * git.add:
+    * git.add:  
+      >Menambahkan file kedalam .git kita sehingga terlacak sejarah codingnya
+
+      Contohny adalah dengan file ini. Saya gunakan Index.html (Some random code) dan dengan menggunakan git.add, kita dapat memasukkannya kedalam git sehingga terlacak codingnya. Gambarannya ada di lampiran
     * git.status:
       >Mengecek apakah file dalam foldernya itu untracked atau tracked.
 
-       Tracked & untracked analoginya disave atau tidak disave. Kalau untracked artinya versi sebelumnya dari code itu akan hilang ketika diubah, sementara tracked artinya versi sebelumnya akan dijaga
+       Tracked & untracked analoginya disave atau tidak disave. Kalau untracked artinya versi sebelumnya dari code itu akan hilang ketika diubah, sementara tracked artinya versi sebelumnya akan dijaga. Dari contoh kita diatas, mengingat file Index.html kita sudah ditambah, maka ketika kita cek, akan terlacak sebagai tracked
     * git
   
   b. Connect Git and VSCode to Github  
@@ -57,6 +60,7 @@
   A & D star:
   A star 
   
+
 
 
 
