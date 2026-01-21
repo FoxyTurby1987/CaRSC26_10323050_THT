@@ -31,6 +31,28 @@
 * Pengenalan Ground Control Station  
   a. Installing Mission Planner
   Not too bad, used the [official website](https://ardupilot.org/planner/docs/mission-planner-installation.html) to download it
+
+  b. Features in Mission Planer  
+  Some of the features are: (From [here](https://ardupilot.org/planner/docs/mission-planner-features.html))
+  * CONNECT:  
+    Connect Mission Planer to an autopilot (i.e. ArduPilot), is at the upper right corner of the screen
+  * DATA:  
+    Displays essential flight information (It's where the HUD, Flight Path, etc is at)
+    <img width="1416" height="860" alt="Screenshot 2026-01-21 142315" src="https://github.com/user-attachments/assets/40571871-0b09-4eff-8c16-f68be463f470" />
+
+  * PLAN:  
+    Like the name, is meant to chart a course for the UAV (create the flight path)  
+    <img width="1418" height="857" alt="Screenshot 2026-01-21 142325" src="https://github.com/user-attachments/assets/4b3d5530-2288-4c09-b3b9-04dc15763ac3" />
+
+  * SETUP:  
+    Where the firmware and the hardware are downloaded and installed
+    <img width="1417" height="857" alt="Screenshot 2026-01-21 142336" src="https://github.com/user-attachments/assets/9d46c95d-8a42-49ba-8c79-f19bdb0e8f99" />
+
+  c. Creating a flight path in Mission Planer
+  The final results of the Flight Path (100 x 80m)
+  <img width="1148" height="551" alt="Screenshot 2026-01-21 145741" src="https://github.com/user-attachments/assets/7c2040c6-299a-4f80-b212-63a62d54b753" />
+  
+
 * Development Environment
 * Dasar-Dasar UAV (Referensinya [ini](https://novapublishers.com/wp-content/uploads/2020/10/Unmanned-Aerial-Vehicles.pdf#page=9.22))
   
@@ -63,6 +85,7 @@
   A & D star:
   A star 
   
+
 
 
 
