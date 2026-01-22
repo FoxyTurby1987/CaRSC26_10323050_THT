@@ -21,7 +21,7 @@ Nomor 4
 Bagian a: Jezz, the technical problems here are insane, how do i get this to work??  
 * Finally got it to work, now to download all the files here
 
-Bagian b: 
+Bagian b: UBUNTUNYA TERUS NGE-CRASH.How on earth do i fix it???
 
 Nomor 5  
 Singkat cerita, most are not too bad, mungkin yang bagian block diagram agak susah
@@ -31,3 +31,4 @@ Pretty nice, all around, found a lot of references for this
 
 Sekarang jawaban b
 
+Unfortunately, for b, I can't do all of it, but at the very least, i was able to do some of it.
