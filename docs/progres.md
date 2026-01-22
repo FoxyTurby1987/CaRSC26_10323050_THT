@@ -1,6 +1,11 @@
 Progress Update  
 Wahh, ini baru belajar GitHub, sudah kebingungan, terutama pemakaian syntax markdownnya, sama system lainnya  
 
+sekarang jawaban a
+
+Nomor 1
+Nothing to be said here
+
 Nomor 2  
 Bagian a: Thankfully not too bad, thank you W3S Studio untuk Beginner Tutorialnya  
 Bagian b: Ain't that bad, terutama berkat tutorial VSCode dari link dikasih kaka  
@@ -14,4 +19,15 @@ Bagian c: More to the technical problems i faced here, just in case the file doe
 
 Nomor 4  
 Bagian a: Jezz, the technical problems here are insane, how do i get this to work??  
+* Finally got it to work, now to download all the files here
+
 Bagian b: 
+
+Nomor 5  
+Singkat cerita, most are not too bad, mungkin yang bagian block diagram agak susah
+
+Nomor 6  
+Pretty nice, all around, found a lot of references for this
+
+Sekarang jawaban b
+
